@@ -1,8 +1,3 @@
-#mushroom
-
-慕课React-redux课程源码
-
-
 
 ## Applied Techniques
 
